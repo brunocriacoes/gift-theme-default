@@ -1,0 +1,118 @@
+.c_menu_mobile {
+    display: grid;
+    grid-template-columns: 48px 1fr 48px;
+    width: 100%;
+    text-align: center;
+    background-color: #0002;
+    margin: 8px 0;
+    border-radius: var(--round);
+    height: 48px;
+    align-items: center;
+    color: #EEE;
+    border: 1px solid #FFF1;
+}
+
+.c_menu_mobile .fa-solid {
+    cursor: pointer;
+}
+
+.c_menu {
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--gap);
+    height: 48px;
+}
+.c_gradient {
+    background: linear-gradient(#111, transparent);
+}
+
+.c_menu_nav {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    font-family: var(--primary-font);
+}
+
+.c_menu_nav li {
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: 48px;
+}
+
+.c_menu_nav li a {
+    text-decoration: none;
+    color: #EEE;
+    text-transform: uppercase;
+}
+
+.c_menu_nav li a:hover {
+    color: #FFF;
+}
+
+.c_menu_nav li ul {
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 48px;
+    left: 0px;
+    width: 100dvw;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 16px 16%;
+    background-color: #FFF;
+    box-shadow: 3px 3px 7px #1112;
+}
+
+.c_menu_nav li:hover ul {
+    display: grid;
+}
+
+.c_menu_nav li ul li {
+    line-height: 28px;
+    
+}
+
+.c_menu_nav li ul li a {
+    color: #333;
+    display: block;
+    transition: all .3s ease-in-out;
+    border-bottom: 2px solid #FFF;
+    margin-right: 16px;
+}
+.c_menu_nav li ul li a:hover{
+    padding-left: 8px;
+    border-bottom: 2px solid #333;
+    color: #111;
+    font-weight: bold;
+}
+
+.c_menu__btn {
+    border: 1px solid #EEE;
+    padding: 0 16px;
+    border-radius: 48px;
+}
+
+.c_menu__logo {
+    display: inline-block;
+    height: 48px;
+    padding: 8px 0;
+}
+
+@media (min-width: 640px) {
+    .c_menu_mobile {
+        display: none;
+    }
+    .c_menu {
+        display: flex;
+    }
+}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 1024px) {}

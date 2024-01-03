@@ -1,0 +1,700 @@
+{
+    "site": {
+        "title": "Tema Padrão",
+        "total": 5
+    },
+    "menu": [
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "",
+                "title": "Home"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "empresa",
+                "title": "empresa"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "#",
+                "title": "produtos"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "contato",
+                "title": "contato"
+            }
+        }
+    ],
+    "categoria": [
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "encosto-de-pescoco-flocado",
+                "title": "Encosto de Pescoço Flocado"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "roof-top",
+                "title": "Roof Top"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "portais",
+                "title": "Portais"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "replicas",
+                "title": "Réplicas"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "logo",
+                "title": "Logo"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "travesseiro",
+                "title": "Travesseiro"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "mini-replicas-inflaveis",
+                "title": "Mini Réplicas Infláveis"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "balde-de-gelo-inflavel",
+                "title": "Balde de Gelo Inflável "
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "cubo-inflavel",
+                "title": "Cubo Inflável"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "personagens-inflaveis",
+                "title": "Personagens Infláveis"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "piscinas-inflaveis",
+                "title": "Piscinas Infláveis"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "poltronas-inflaveis",
+                "title": "Poltronas Infláveis"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "projeto-especial",
+                "title": "Projeto Especial"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "puff-inflavel",
+                "title": "Puff Inflável"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "totens-inflaveis",
+                "title": "Totens Infláveis"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "sacola",
+                "title": "Sacola"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "bastao",
+                "title": "Bastão"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "pirulito",
+                "title": "Pirulito"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "quadrado",
+                "title": "Quadrado"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "formatos-especiais",
+                "title": "Formatos Especiais"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "boia-para-park",
+                "title": "Bóia para Park"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "boia-para-piscina",
+                "title": "Bóia para Piscina"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "boia-de-braco",
+                "title": "Bóia de Braço"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "esteira-para-piscina",
+                "title": "Esteira para Piscina"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "gomo",
+                "title": "Gomo"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "maluca",
+                "title": "Maluca"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "promoball",
+                "title": "Promoball"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "mobiles",
+                "title": "Móbiles"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "mini-replicas",
+                "title": "Mini Réplicas"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "treinamento-de-goleiros",
+                "title": "Treinamento de Goleiros"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "curtir",
+                "title": "Curtir"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "teimoso",
+                "title": "Teimoso"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "porta-celular",
+                "title": "Porta Celular"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "porta-retrato",
+                "title": "Porta Retrato"
+            }
+        },
+        {
+            "type": "linkMenu",
+            "payload": {
+                "slug": "encosto-de-pescoco-pvc",
+                "title": "Encosto de Pescoço Pvc"
+            }
+        }
+    ],
+    "produto": [
+        {
+            "slug": "encosto-de-pescoco-flocado",
+            "img": "https://zappinflaveis.com.br/banco/upload/5bc8aba0364e8.png",
+            "title": "Encosto de Pescoço Flocado Miorrelax"
+        },
+        {
+            "slug": "roof-top",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ae69532b12.png",
+            "title": "Inflável Gigante Roof Top - Maranata"
+        },
+        {
+            "slug": "roof-top",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ae7068d877.png",
+            "title": "Inflável Gigante Roof Top - Sky"
+        },
+        {
+            "slug": "roof-top",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ae74db4bdd.png",
+            "title": "Inflável Gigante Roof Top"
+        },
+        {
+            "slug": "portais",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ae1e96e208.png",
+            "title": "Inflável Gigante Portal - Du Pont"
+        },
+        {
+            "slug": "portais",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ae21928a01.png",
+            "title": "Inflável Gigante Portal - IMS"
+        },
+        {
+            "slug": "portais",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ae3f40248f.png",
+            "title": "Inflável Gigante Portal - Parque do Carmo"
+        },
+        {
+            "slug": "replicas",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ae5b5d7373.png",
+            "title": "Inflável Gigante Réplica - Damare"
+        },
+        {
+            "slug": "logo",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5adea40d894.png",
+            "title": "Inflável Gigante Logo Vivo"
+        },
+        {
+            "slug": "logo",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5adf0569038.png",
+            "title": "Inflável Gigante Logo Porto Seguro"
+        },
+        {
+            "slug": "travesseiro",
+            "img": "https://zappinflaveis.com.br/banco/upload/5bc89166efcf0.png",
+            "title": "Travesseiro Havaianas"
+        },
+        {
+            "slug": "travesseiro",
+            "img": "https://zappinflaveis.com.br/banco/upload/5bc894f49a427.png",
+            "title": "Travesseiro Verão 2018"
+        },
+        {
+            "slug": "mini-replicas-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b0523af2b9.png",
+            "title": "Mini Réplica Inflável Coco do Vale"
+        },
+        {
+            "slug": "mini-replicas-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b05ac809ff.png",
+            "title": "Mini Réplica Inflável Mix Nutri"
+        },
+        {
+            "slug": "mini-replicas-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b0652adb3a.png",
+            "title": "Mini Réplica Inflável Mobil"
+        },
+        {
+            "slug": "balde-de-gelo-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b0b6de397e.png",
+            "title": "Balde de Gelo Inflável Brahma"
+        },
+        {
+            "slug": "balde-de-gelo-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b0bc69ecd4.png",
+            "title": "Balde de Gelo Inflável Seara"
+        },
+        {
+            "slug": "balde-de-gelo-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b0c1872f75.png",
+            "title": "Balde de Gelo Inflável Skol"
+        },
+        {
+            "slug": "cubo-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b169eb7e7a.png",
+            "title": "Cubo Inflável"
+        },
+        {
+            "slug": "cubo-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b16c910ee0.png",
+            "title": "Cubo Inflável Números"
+        },
+        {
+            "slug": "cubo-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b170d4fb4c.png",
+            "title": "Cubo Inflável OrloffSet"
+        },
+        {
+            "slug": "personagens-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1aac9b5c9.png",
+            "title": "Personagem Inflável Polly Balões"
+        },
+        {
+            "slug": "piscinas-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1bbb1c13c.jpg",
+            "title": "Piscina Inflável Smirnoff"
+        },
+        {
+            "slug": "poltronas-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1d2255f7c.png",
+            "title": "Poltrona Inflável"
+        },
+        {
+            "slug": "poltronas-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1dbd50ad6.png",
+            "title": "Poltrona Inflável Bematech"
+        },
+        {
+            "slug": "poltronas-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1de3298f6.png",
+            "title": "Poltrona Inflável Santander"
+        },
+        {
+            "slug": "projeto-especial",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1f471b29c.png",
+            "title": "Projeto Especial"
+        },
+        {
+            "slug": "projeto-especial",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1f851d902.png",
+            "title": "Projeto Especial Nickelodeon"
+        },
+        {
+            "slug": "projeto-especial",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b1faf4fa91.png",
+            "title": "Projeto Especial SBT"
+        },
+        {
+            "slug": "puff-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b22bec7332.png",
+            "title": "Puff Inflável"
+        },
+        {
+            "slug": "puff-inflavel",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b231b5ed34.png",
+            "title": "Puff Inflável Transparente"
+        },
+        {
+            "slug": "totens-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b28234e349.png",
+            "title": "Totem Inflável FoxLux"
+        },
+        {
+            "slug": "totens-inflaveis",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b2880bd861.png",
+            "title": "Totem Inflável"
+        },
+        {
+            "slug": "sacola",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b2a466ae03.png",
+            "title": "Sacola com Alça"
+        },
+        {
+            "slug": "sacola",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b2a77163fa.png",
+            "title": "Sacola Tipo Mochila Saco"
+        },
+        {
+            "slug": "bastao",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c7e795120e.png",
+            "title": "Bateco Bastão Beto Carrero"
+        },
+        {
+            "slug": "bastao",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c8094e5bcb.png",
+            "title": "Bateco Bastão América FC"
+        },
+        {
+            "slug": "bastao",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c83ddcce05.png",
+            "title": "Bateco Bastão Marcílio Dias"
+        },
+        {
+            "slug": "bastao",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c854a36911.png",
+            "title": "Bateco Bastão Stockcar"
+        },
+        {
+            "slug": "bastao",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c8aa062aa0.png",
+            "title": "Bateco Bastão Nissan"
+        },
+        {
+            "slug": "pirulito",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c79c751c09.png",
+            "title": "Bateco Pirulito Eita Junino"
+        },
+        {
+            "slug": "pirulito",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c79f59116b.png",
+            "title": "Bateco Pirulito Vila Maria"
+        },
+        {
+            "slug": "pirulito",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c7c896d315.png",
+            "title": "Bateco Pirulito Mackenzie"
+        },
+        {
+            "slug": "pirulito",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c7ce98a380.png",
+            "title": "Bateco Pirulito Itaipava"
+        },
+        {
+            "slug": "pirulito",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c7d0c27882.png",
+            "title": "Bateco Pirulito Nivea"
+        },
+        {
+            "slug": "quadrado",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5aca63816ee.png",
+            "title": "Bateco Quadrado Bradesco"
+        },
+        {
+            "slug": "formatos-especiais",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7c8e42ec1ec.png",
+            "title": "Bateco em Formato Especial Tocha Up"
+        },
+        {
+            "slug": "boia-para-park",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5acc21ae200.png",
+            "title": "Boia para Parque - Pousada dos Pireneus"
+        },
+        {
+            "slug": "boia-para-park",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5accbcd1c49.png",
+            "title": "Boia para Parque - Thermas Park"
+        },
+        {
+            "slug": "boia-para-park",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5acceea4612.png",
+            "title": "Boia para Parque - Water Park"
+        },
+        {
+            "slug": "boia-para-piscina",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b884c7d39b2a.png",
+            "title": "Boia para Piscina Froot Loops"
+        },
+        {
+            "slug": "boia-para-piscina",
+            "img": "https://zappinflaveis.com.br/banco/upload/5bc8b673062c5.png",
+            "title": "Boia para Piscina Melancia"
+        },
+        {
+            "slug": "boia-de-braco",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5acabe62ae7.png",
+            "title": "Boia Inflável Fortlev"
+        },
+        {
+            "slug": "boia-de-braco",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5acb8f11906.png",
+            "title": "Boia Inflável Amarela"
+        },
+        {
+            "slug": "boia-de-braco",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5acbbd109ae.png",
+            "title": "Boia Inflável Transparente"
+        },
+        {
+            "slug": "esteira-para-piscina",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b8839e327e1a.png",
+            "title": "Esteira para Piscina"
+        },
+        {
+            "slug": "gomo",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5acea22a4b5.png",
+            "title": "Bola de Gomo Aperol Spritz"
+        },
+        {
+            "slug": "gomo",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5acf563d245.png",
+            "title": "Bola de Gomo Kibon Farm"
+        },
+        {
+            "slug": "maluca",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad1302f287.png",
+            "title": "Bola Maluca Kambalhota Kids"
+        },
+        {
+            "slug": "maluca",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad158d59fb.png",
+            "title": "Bola Maluca Natal"
+        },
+        {
+            "slug": "maluca",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad190677e7.png",
+            "title": "Bola Maluca Catupiry"
+        },
+        {
+            "slug": "promoball",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b07ff7dd02.png",
+            "title": "Promoball Jequiti"
+        },
+        {
+            "slug": "promoball",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b0870abf54.png",
+            "title": "Promoball Brasken"
+        },
+        {
+            "slug": "mobiles",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7d70a23a44b.png",
+            "title": "Móbile Vivo"
+        },
+        {
+            "slug": "mobiles",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7d7031f3cee.png",
+            "title": "Móbile BV"
+        },
+        {
+            "slug": "mobiles",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b7d70561c12d.png",
+            "title": "Móbile Dibs"
+        },
+        {
+            "slug": "mini-replicas",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b86f7640426b.png",
+            "title": "Mini Réplica PDV Cimento Votorantim"
+        },
+        {
+            "slug": "mini-replicas",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b8700a4c90c5.png",
+            "title": "Mini Réplica PDV Óleo Mobil"
+        },
+        {
+            "slug": "mini-replicas",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b8700def3d79.png",
+            "title": "Mini Réplica PDV Pacote Bombril"
+        },
+        {
+            "slug": "treinamento-de-goleiros",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b040e0400e.png",
+            "title": "João Bobo Treinamento"
+        },
+        {
+            "slug": "curtir",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b87091c9cb8f.png",
+            "title": "Bateco Curtir Unimed"
+        },
+        {
+            "slug": "teimoso",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b018c75391.png",
+            "title": "João Bobo Teimoso"
+        },
+        {
+            "slug": "teimoso",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b01fc595b4.png",
+            "title": "João Bobo Teimoso Acizinho"
+        },
+        {
+            "slug": "teimoso",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5b023baa460.png",
+            "title": "João Bobo Teimoso Suplan"
+        },
+        {
+            "slug": "porta-celular",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad2b3718bd.png",
+            "title": "Porta Celular Verde"
+        },
+        {
+            "slug": "porta-celular",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad2eb0d6c2.png",
+            "title": "Porta Celular Vermelho"
+        },
+        {
+            "slug": "porta-celular",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad365b1941.png",
+            "title": "Porta Celular Amarelo"
+        },
+        {
+            "slug": "porta-retrato",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad802d1231.png",
+            "title": "Porta Retrato Coração"
+        },
+        {
+            "slug": "porta-retrato",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad892f39f5.png",
+            "title": "Porta Retrato Retangular Amarelo"
+        },
+        {
+            "slug": "porta-retrato",
+            "img": "https://zappinflaveis.com.br/banco/upload/5c5ad91747ed8.png",
+            "title": "Porta Retrato Retangular Vermelho"
+        },
+        {
+            "slug": "encosto-de-pescoco-pvc",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b8998e04574d.png",
+            "title": "Encosto de Pescoço PVC Vivo"
+        },
+        {
+            "slug": "encosto-de-pescoco-pvc",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b899dadd1851.png",
+            "title": "Encosto de Pescoço PVC Tam"
+        },
+        {
+            "slug": "encosto-de-pescoco-pvc",
+            "img": "https://zappinflaveis.com.br/banco/upload/5b899fb319df2.png",
+            "title": "Encosto de Pescoço PVC Banana Boat"
+        }
+    ]
+}

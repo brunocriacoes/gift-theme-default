@@ -1,13 +1,126 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tema Padrão</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="shortcut icon" href="./assets/images/logo/ico.png" type="image/x-icon">
 </head>
+
 <body>
-    <div>
-        
+    <div app-data="data.json">
+
+        <input type="checkbox" id="menu_mobile" hidden>
+
+        <div class="full">
+            <div class="container">
+                <div class="c_menu_mobile">
+                    <label for="menu_mobile">
+                        <i class="fa-solid fa-bars"></i>
+                        <span class="fa-solid fa-xmark" hidden></span>
+                    </label>
+                    <strong class="f1">
+                        <a href="/" title="inicio">
+                            <figure>
+                                <img src="./assets/images/logo/logo.svg" alt="logo" class="c_menu__logo">
+                            </figure>
+                        </a>
+                    </strong>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="full c_gradient">
+            <div class="container">
+                <div class="c_menu">
+                    <div>
+                        <a href="/" title="inicio">
+                            <figure>
+                                <img src="./assets/images/logo/logo.svg" alt="logo" class="c_menu__logo">
+                            </figure>
+                        </a>
+                    </div>
+                    <div>
+                        <form action="/" method="GET" class="c_search">
+                            <input type="search" name="s" placeholder="O que você busca?">
+                            <button type="submit">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </button>
+                        </form>
+                    </div>
+                    <nav>
+                        <ul class="c_menu_nav">
+                            <li>
+                                <a href="" title="home">
+                                    home
+                                </a>
+                            </li>
+                            <li>
+                                <a href="" title="empresa">
+                                    empresa
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" title="produtos">
+                                    <span>produtos</span>
+                                    <i class="fa-solid fa-caret-down"></i>
+                                </a>
+                                <ul>
+                                    <li app-repeat="categoria">
+                                        <a href="{{payload.slug}}" title="{{payload.title}}">
+                                            {{payload.title}}
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="" title="baixar catalogo" class="c_menu__btn">
+                                    <i class="fa-solid fa-cloud-arrow-down"></i>
+                                    <span>baixar catalogo</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="" title="contato">
+                                    contato
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div>
+                        <div class="c_cart">
+                            <span app-value>{{site.total}}</span>
+                            <i class="fa-solid fa-bag-shopping"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="full">
+            <div class="container">
+                <h1>Produtos</h1>
+                <div>
+                    <div class="grid c-4">
+                        <a href="" app-repeat="produto">
+                            <figure>
+                                <img src="{{img}}">
+                            </figure>
+                            <strong>{{title}}</strong>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
+
+    <script src="./app.js" type="module"></script>
+    <script src="./assets/js/main.js" type="module"></script>
+
 </body>
+
 </html>

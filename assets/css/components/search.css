@@ -1,0 +1,22 @@
+.c_search {
+    display: flex;
+    border-radius: 16px;
+    background-color: #FFF;
+    overflow: hidden;
+}
+
+.c_search input {
+    padding: 0 16px;
+    outline: none;
+    color: #333;
+}
+
+.c_search button {
+    display: flex;
+    width: 32px;
+    height: 32px;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    cursor: pointer;
+}

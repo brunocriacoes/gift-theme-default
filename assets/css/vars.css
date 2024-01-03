@@ -1,0 +1,36 @@
+:root {
+
+    --primary-font: 'Oswald', sans-serif;
+    --secondary-font: 'Cormorant Garamond', serif;
+
+    --line-height: 1.5em;
+
+    --primary-color: #000;
+    --secondary-color: #fff;
+    --accent-color: #ff0000;
+
+    --margin: 16px;
+    --padding: 8px;
+    --round: 8px;
+    --gap: 16px;
+
+    --size-title: 24px;
+    --size-subtitle: 18px;
+    --size-text: 12px;
+    --size-smal: 10px;
+
+    --space: 18px;
+    --long-space: 36px;
+
+}
+
+@media not all and (min-width: 768px) {
+
+    :root {
+        --size-title: 36px;
+        --size-subtitle: 24px;
+        --size-text: 16px;
+        --size-smal: 11px;
+    }
+
+}
